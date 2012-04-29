@@ -1,0 +1,6 @@
+Dazzle.js will tastefully apply a dazzle pattern to any and all web pages. It searches out all divs and alters the CSS styling to add a (pure CSS, I might add) varying set of dazzle patterns across the page. Your pages will then be safe from the U-boat menace. 
+
+Dazzle.js is, in a typically British fashion, dependent on nothing except for having a WebKit or Mozilla-based browser. No jQuery, no images, just good, old-fashioned grit. It comes in at 586 bytes after minification, so it would just about fit on a ZX81. 
+
+Add the function to your browser's bookmark bar, and then click on the bookmark when The Hun approach.
+
